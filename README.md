@@ -1,5 +1,8 @@
 # Recommedation_system
 
-Item based collaborative filtering system
-/n - Use The Last.FM dataset
-/n - Use cosine similarity to calculate similarity of each product
+Item based collaborative filtering
+User based collaborative filtering
+ - Use The Last.FM dataset
+ 
+
+
